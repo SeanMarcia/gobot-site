@@ -41,6 +41,12 @@
     "drivers": ["Leap Motion"]
   },
 
+  "Mavlink": {
+    "slug": "mavlink",
+    "url": "",
+    "drivers": []
+  },
+
   "Neurosky": {
     "slug": "neurosky",
     "url": "http://neurosky.com/products-markets/eeg-biosensors/hardware/",

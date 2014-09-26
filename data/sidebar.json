@@ -16,6 +16,7 @@
     "Intel Edison": "/documentation/platforms/edison",
     "Joystick": "/documentation/platforms/joystick",
     "Leap Motion": "/documentation/platforms/leapmotion",
+    "Mavlink": "/documentation/platforms/mavlink",
     "Neurosky Mindwave": "/documentation/platforms/neurosky",
     "Spark": "/documentation/platforms/spark",
     "Sphero": "/documentation/platforms/sphero"
