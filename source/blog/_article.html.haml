@@ -1,6 +1,6 @@
 .article
   = partial "/blog/header", {locals: { article: article }}
-  = article.body
+  = article.summary(750)
   .tags
     .img
       = image_tag "elements/tag.png"
